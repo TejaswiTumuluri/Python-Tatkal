@@ -8,6 +8,8 @@ After Downloading click on the setup and click on Install Path and then proceed 
 
  * Download My Files to your computer and next copy the all exe files (Web driver Files) to Python Installed directory
  
- * Open command prompt win + r , Type cmd -> Press Enter ant then type -> pip install selenium 
+ * If you want to check in which path python installed win + r , Type cmd -> Press Enter and type where python.exe
+ 
+ * Open command prompt win + r , Type cmd -> Press Enter and then type -> pip install selenium 
  
  * Open tatkal Script and Provide Your details and run test once 
